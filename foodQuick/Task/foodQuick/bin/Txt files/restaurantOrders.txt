@@ -1,0 +1,5 @@
+4242, Debonairs Pizza, Pretoria, 072 334 8925, 182.00, Extra Cheese, 1 x double Deca (R100.00), 1 x Hawaiian pizza (R82.00)
+1569, Legs shop, Pretoria, 082 255 4466, 199.00, Chips(R50), 1 x Chicken legs (R99.00), 1 x Pap and soup  (R100.00)
+7859, Monate Cafe, South Side, 078 333 4123, 150.00, Extra Pepper sauce, 2 x Sphatlho (R125.00)
+1269, Sunshine, Prinshof, 084 454 666, 129.00, No Tomato on the burger, 1 x Bacon, Avo and Cheese Burger (R129.00)
+1385, Steak House, Pretoria,079 222 6777, 300.00, , 1 x Ribs with chips 300g (R200), 1 x Rump Steak 300g (R100.00)
